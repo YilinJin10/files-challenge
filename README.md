@@ -1,3 +1,3 @@
 # files-challenge
-
-Nice to meet you:) 
+Description: INFO343 course works
+Message to TA: Nice to meet you:) 
